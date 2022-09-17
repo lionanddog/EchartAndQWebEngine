@@ -1,0 +1,2 @@
+# EchartAndQWebEngine
+一个通过QWebEngine和html页面交互，实现echart绘图的demo
